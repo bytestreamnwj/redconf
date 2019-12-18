@@ -1,5 +1,8 @@
+spring:
+  application:
+      name: red-config
 red:
-  remark: 这是dev配置文件的remark
+  remark: 杩欐槸Dev鐨剅emark
 
     
     
